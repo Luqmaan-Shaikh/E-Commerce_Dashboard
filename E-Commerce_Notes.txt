@@ -1,0 +1,10 @@
+Project 1 -> XYZ E-Commerce Sales Dashboard
+
+Objective : XYZ Store wants us to help them create a Dashboard to Track and Analyze their online Sales across India.
+
+-- Analyzed E-commerce sales data 
+-- created interactive dashboard using power bi 
+-- Used different types of customised visualization (Bar Chart, Column Chart, Donut Chart, Slicers)
+
+
+
